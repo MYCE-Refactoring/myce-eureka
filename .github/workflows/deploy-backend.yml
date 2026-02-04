@@ -7,7 +7,7 @@ on:
 env:
   app-name: myce-eureka
   app-port: 8084
-  deploy-host: public
+  deploy-host: monitoring
 
 jobs:
   build-api:
